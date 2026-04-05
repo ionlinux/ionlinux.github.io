@@ -8,7 +8,7 @@ toc: false
 Get the latest release of Ion Linux.
 
 {{< cards >}}
-  {{< card title="Ion Linux Desktop" subtitle="Full desktop environment with Wayland compositor. Recommended for most users." icon="desktop-computer" >}}
+  {{< card title="Ion Linux Desktop" subtitle="Full desktop environment with Wayland compositor. Recommended for most users." icon="desktop-computer" link="https://github.com/ionlinux/ion/releases/download/2026.04.05/ionlinux-2026.04.05-x86_64.iso" >}}
   {{< card title="Ion Linux Server" subtitle="Minimal server installation. Headless, optimized for workloads." icon="server" >}}
   {{< card title="Ion Linux Minimal" subtitle="Bare-bones base system. Build your own setup from scratch." icon="terminal" >}}
 {{< /cards >}}
