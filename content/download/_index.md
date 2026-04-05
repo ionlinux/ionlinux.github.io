@@ -30,4 +30,4 @@ XXXX XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX
 
 ### Previous Releases
 
-Previous releases and changelogs are available on our [GitHub releases page](https://github.com/ionlinux).
+Previous releases and changelogs are available on our [GitHub releases page](https://github.com/ionlinux/ion/releases).
