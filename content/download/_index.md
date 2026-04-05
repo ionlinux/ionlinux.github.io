@@ -20,12 +20,12 @@ Get the latest release of Ion Linux.
 All releases are signed with our GPG key. Verify your download:
 
 ```bash
-gpg --verify ionlinux-latest.iso.sig ionlinux-latest.iso
+gpg --verify ionlinux-2026.04.05-x86_64.iso.sig ionlinux-2026.04.05-x86_64.iso
 ```
 
 **GPG Key Fingerprint:**
 ```
-XXXX XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX
+EB13 BC87 D0D0 B08C 4CA9  42F4 15F0 5CC4 70C7 F468
 ```
 
 ### Previous Releases
