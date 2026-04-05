@@ -14,7 +14,11 @@ title = 'Ion Linux'
 
   [params.navbar]
     displayTitle = true
-    displayLogo = false
+    displayLogo = true
+
+    [params.navbar.logo]
+      path = "images/logo.svg"
+      dark = "images/logo-dark.svg"
 
   [params.footer]
     displayCopyright = true
