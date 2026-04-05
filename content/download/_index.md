@@ -13,6 +13,12 @@ Get the latest release of Ion Linux.
   {{< card title="Ion Linux Minimal" subtitle="Bare-bones base system. Build your own setup from scratch." icon="terminal" >}}
 {{< /cards >}}
 
+### Download Signatures
+
+{{< cards >}}
+  {{< card title="Ion Linux Desktop Signature" icon="finger-print" link="https://github.com/ionlinux/ion/releases/download/2026.04.05/ionlinux-2026.04.05-x86_64.iso.sig" >}}
+{{< /cards >}}
+
 ---
 
 ### Verify Your Download
