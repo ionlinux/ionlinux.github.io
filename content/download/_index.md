@@ -8,7 +8,7 @@ toc: false
 Get the latest release of Ion Linux.
 
 {{< cards >}}
-  {{< card title="Ion Linux Desktop" subtitle="Full desktop environment with Wayland compositor. Recommended for most users." icon="desktop-computer" link="https://sourceforge.net/projects/ionlinux/files/ionlinux-2026.04.07-x86_64.iso/download" >}}
+  {{< card title="Ion Linux Desktop" subtitle="Full desktop environment with Wayland compositor. Recommended for most users." icon="desktop-computer" link="https://sourceforge.net/projects/ionlinux/files/ionlinux-2026.04.08-x86_64.iso/download" >}}
   {{< card title="Ion Linux Server" subtitle="Minimal server installation. Headless, optimized for workloads." icon="server" >}}
   {{< card title="Ion Linux Minimal" subtitle="Bare-bones base system. Build your own setup from scratch." icon="terminal" >}}
 {{< /cards >}}
@@ -16,7 +16,7 @@ Get the latest release of Ion Linux.
 ### Download Signatures
 
 {{< cards >}}
-  {{< card title="Ion Linux Desktop Signature" icon="finger-print" link="https://sourceforge.net/projects/ionlinux/files/ionlinux-2026.04.07-x86_64.iso.sig/download" >}}
+  {{< card title="Ion Linux Desktop Signature" icon="finger-print" link="https://sourceforge.net/projects/ionlinux/files/ionlinux-2026.04.08-x86_64.iso.sig/download" >}}
 {{< /cards >}}
 
 ---
@@ -26,7 +26,7 @@ Get the latest release of Ion Linux.
 All releases are signed with our GPG key. Verify your download:
 
 ```bash
-gpg --verify ionlinux-2026.04.07-x86_64.iso.sig ionlinux-2026.04.07-x86_64.iso
+gpg --verify ionlinux-2026.04.08-x86_64.iso.sig ionlinux-2026.04.08-x86_64.iso
 ```
 
 **GPG Key Fingerprint:**
